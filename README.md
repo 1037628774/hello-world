@@ -1,4 +1,4 @@
 # hello-world
-just another repository
+make some new editions
 
 My name is Shi Chenghuan
